@@ -2,7 +2,7 @@
 
 **`Graduando em Engenharia de Computação`**
 
-Meu nome é Bruno Davis, tenho 22 anos e sou estudante de Engenharia de Computação na Pontifícia Universidade Católica de Goiás. Acredito que, no cenário atual, a segurança da informação é uma necessidade crescente, tanto para indivíduos quanto para organizações. Atualmente, estou em busca da minha primeira oportunidade como estagiário na área de segurança da informação.
+Meu nome é Bruno Davis, tenho 22 anos e sou estudante de Engenharia de Computação na Pontifícia Universidade Católica de Goiás. Acredito que, no cenário atual, a segurança da informação é uma necessidade crescente, tanto para indivíduos quanto para organizações. Atualmente, estou em busca da minha primeira oportunidade como estagiário na área de infraestrutura e segurança de redes.
 
 ### 🤝 Conecte-se comigo
 
