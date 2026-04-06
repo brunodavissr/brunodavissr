@@ -2,21 +2,9 @@
 
 **`Graduando em Engenharia de Computação`**
 
-Meu nome é Bruno Davis e sou estudante de Engenharia de Computação na Pontifícia Universidade Católica de Goiás. Acredito que, no cenário atual, a segurança da informação é uma necessidade crescente, tanto para indivíduos quanto para organizações. Atualmente, estou em busca da minha primeira oportunidade como estagiário na área de infraestrutura e segurança de redes.
+Meu nome é Bruno Davis e sou estudante de Engenharia de Computação na Pontifícia Universidade Católica de Goiás. Aqui estão alguns dos trabalhos que venho desenvolvendo, sejam trabalhos acadêmicos ou trabalhos desenvolvidos por hobbie no tempo livre.
 
 ### 🤝 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/brunodavissr)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:brunodavissr@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-001A2F?style=for-the-badge&logoColor=white)](https://brunodavissr.github.io/portfolio)
-
-### 📊 Estatísticas
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodavissr&theme=tokyonight&layout=compact&custom_title=Linguagens%20mais%20utilizadas&langs_count=9" 
-  />
-</p>
